@@ -1,0 +1,20 @@
+.template-line {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 10px 2px;
+    color: #72778a;
+    font-size: 13px
+}
+
+.template-line a {
+    color: #594bd6;
+    font-weight: 600
+}
+
+.template-line small {
+    width: 100%;
+    padding-left: 1px;
+    color: #9295a3
+}
